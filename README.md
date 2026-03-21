@@ -3,18 +3,6 @@ An AI-driven medical imaging project that classifies chest X-ray images into Nor
 
 ##  Project Goal
 The primary objective is to build an automated diagnostic tool that distinguishes between healthy lungs and those affected by pneumonia. This acts as a first-pass screening tool to assist radiologists, especially in regions with limited medical resources.
-##  Technical Workflow
-### 1. Dataset & PreparationData Split: Organized into Train, Validation, and Test sets to ensure unbiased evaluation.Preprocessing: Images resized to $224 \times 224$ pixels and normalized.Augmentation: Random flips, rotations, and brightness adjustments are applied to training data to improve model generalization.Handling Imbalance: Utilized a WeightedRandomSampler to ensure the model doesn't become biased toward the more frequent Pneumonia class.
-Gemini said
-This is a fantastic breakdown. As a Biomedical Engineering student, highlighting Grad-CAM Explainability and Class Imbalance Handling is key—it shows you understand the clinical risks of "black box" AI and biased datasets.
-
-Below is a professional README.md for your Pneumonia Detection project. You can paste this directly into your repository.
-
-🫁 Pneumonia Detection from Chest X-Rays
-An AI-driven medical imaging project that classifies chest X-ray images into Normal or Pneumonia categories. This system utilizes Deep Learning (CNNs) and Transfer Learning to provide rapid screening and clinical decision support.
-
-##  Project Goal
-The primary objective is to build an automated diagnostic tool that distinguishes between healthy lungs and those affected by pneumonia. This acts as a first-pass screening tool to assist radiologists, especially in regions with limited medical resources.
 
 ##  Technical Workflow
 ### 1. Dataset & Preparation
