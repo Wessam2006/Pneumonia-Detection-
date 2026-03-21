@@ -27,7 +27,7 @@ Optimization: Weights are adjusted over 15 epochs based on loss calculations.
 Early Stopping: Monitoring validation loss to prevent overfitting.
 
 Checkpointing: Automatically saves the best-performing model based on validation metrics.
-## 📊 Evaluation & Explainability
+##  Evaluation & Explainability
 ### Performance Metrics
 The model is evaluated using standard clinical metrics:
 
