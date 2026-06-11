@@ -1,4 +1,4 @@
-🫁 Pneumonia Detection from Chest X-Rays
+ Pneumonia Detection from Chest X-Rays
 An AI-driven medical imaging project that classifies chest X-ray images into Normal or Pneumonia categories. This system utilizes Deep Learning (CNNs) and Transfer Learning to provide rapid screening and clinical decision support.
 
 ##  Project Goal
